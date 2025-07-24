@@ -1,5 +1,5 @@
 <?php
-// Start the session or perform any PHP initialization if needed
+// Start the session or perform any PHP initialization
 ?>
 
 <!DOCTYPE html>
